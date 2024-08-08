@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\WindowContainer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|solutionrelative:DirectX11Engine\\WindowContainer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\WindowContainer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|solutionrelative:DirectX11Engine\\WindowContainer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\RenderWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|solutionrelative:DirectX11Engine\\RenderWindow.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\RenderWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|solutionrelative:DirectX11Engine\\RenderWindow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\keyboardEvent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|solutionrelative:DirectX11Engine\\keyboardEvent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\KeyboardClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|solutionrelative:DirectX11Engine\\KeyboardClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|solutionrelative:DirectX11Engine\\Engine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\KeyboardClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|solutionrelative:DirectX11Engine\\KeyboardClass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|solutionrelative:DirectX11Engine\\Engine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|solutionrelative:DirectX11Engine\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\keyboardEvent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|solutionrelative:DirectX11Engine\\keyboardEvent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\StringConverter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|solutionrelative:DirectX11Engine\\StringConverter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\ErrorLogger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|solutionrelative:DirectX11Engine\\ErrorLogger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\StringConverter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|solutionrelative:DirectX11Engine\\StringConverter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\ErrorLogger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37CBFDB4-FC79-4BB3-A5FD-53408700A5E2}|DirectX11Engine\\DirectX11Engine.vcxproj|solutionrelative:DirectX11Engine\\ErrorLogger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 127,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\Source.cpp",
+              "RelativeDocumentMoniker": "DirectX11Engine\\Source.cpp",
+              "ToolTip": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\Source.cpp",
+              "RelativeToolTip": "DirectX11Engine\\Source.cpp",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-06T09:15:36.591Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WindowContainer.h",
+              "DocumentMoniker": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\WindowContainer.h",
+              "RelativeDocumentMoniker": "DirectX11Engine\\WindowContainer.h",
+              "ToolTip": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\WindowContainer.h",
+              "RelativeToolTip": "DirectX11Engine\\WindowContainer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-07T01:37:01.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Engine.h",
+              "DocumentMoniker": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\Engine.h",
+              "RelativeDocumentMoniker": "DirectX11Engine\\Engine.h",
+              "ToolTip": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\Engine.h",
+              "RelativeToolTip": "DirectX11Engine\\Engine.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-07T01:36:46.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KeyboardEvent.h",
+              "DocumentMoniker": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\KeyboardEvent.h",
+              "RelativeDocumentMoniker": "DirectX11Engine\\KeyboardEvent.h",
+              "ToolTip": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\KeyboardEvent.h",
+              "RelativeToolTip": "DirectX11Engine\\KeyboardEvent.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-07T07:26:23.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StringConverter.h",
+              "DocumentMoniker": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\StringConverter.h",
+              "RelativeDocumentMoniker": "DirectX11Engine\\StringConverter.h",
+              "ToolTip": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\StringConverter.h",
+              "RelativeToolTip": "DirectX11Engine\\StringConverter.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-06T09:30:50.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RenderWindow.h",
+              "DocumentMoniker": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\RenderWindow.h",
+              "RelativeDocumentMoniker": "DirectX11Engine\\RenderWindow.h",
+              "ToolTip": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\RenderWindow.h",
+              "RelativeToolTip": "DirectX11Engine\\RenderWindow.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-06T10:09:09.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KeyboardClass.h",
+              "DocumentMoniker": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\KeyboardClass.h",
+              "RelativeDocumentMoniker": "DirectX11Engine\\KeyboardClass.h",
+              "ToolTip": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\KeyboardClass.h",
+              "RelativeToolTip": "DirectX11Engine\\KeyboardClass.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-07T07:32:57.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorLogger.h",
+              "DocumentMoniker": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\ErrorLogger.h",
+              "RelativeDocumentMoniker": "DirectX11Engine\\ErrorLogger.h",
+              "ToolTip": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\ErrorLogger.h",
+              "RelativeToolTip": "DirectX11Engine\\ErrorLogger.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-06T09:33:30.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StringConverter.cpp",
+              "DocumentMoniker": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\StringConverter.cpp",
+              "RelativeDocumentMoniker": "DirectX11Engine\\StringConverter.cpp",
+              "ToolTip": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\StringConverter.cpp",
+              "RelativeToolTip": "DirectX11Engine\\StringConverter.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-06T09:31:40.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorLogger.cpp",
+              "DocumentMoniker": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\ErrorLogger.cpp",
+              "RelativeDocumentMoniker": "DirectX11Engine\\ErrorLogger.cpp",
+              "ToolTip": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\ErrorLogger.cpp",
+              "RelativeToolTip": "DirectX11Engine\\ErrorLogger.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-06T09:35:07.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 165,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KeyboardClass.cpp",
+              "DocumentMoniker": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\KeyboardClass.cpp",
+              "RelativeDocumentMoniker": "DirectX11Engine\\KeyboardClass.cpp",
+              "ToolTip": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\KeyboardClass.cpp",
+              "RelativeToolTip": "DirectX11Engine\\KeyboardClass.cpp",
+              "ViewState": "AQIAADcAAAAAAAAAAAD4v0YAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-07T07:33:06.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowContainer.cpp",
+              "DocumentMoniker": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\WindowContainer.cpp",
+              "RelativeDocumentMoniker": "DirectX11Engine\\WindowContainer.cpp",
+              "ToolTip": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\WindowContainer.cpp",
+              "RelativeToolTip": "DirectX11Engine\\WindowContainer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-07T02:32:13.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Engine.cpp",
+              "DocumentMoniker": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\Engine.cpp",
+              "RelativeDocumentMoniker": "DirectX11Engine\\Engine.cpp",
+              "ToolTip": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\Engine.cpp",
+              "RelativeToolTip": "DirectX11Engine\\Engine.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAB0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-07T01:38:56.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KeyboardEvent.cpp",
+              "DocumentMoniker": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\KeyboardEvent.cpp",
+              "RelativeDocumentMoniker": "DirectX11Engine\\KeyboardEvent.cpp",
+              "ToolTip": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\KeyboardEvent.cpp",
+              "RelativeToolTip": "DirectX11Engine\\KeyboardEvent.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-07T07:28:39.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RenderWindow.cpp",
+              "DocumentMoniker": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\RenderWindow.cpp",
+              "RelativeDocumentMoniker": "DirectX11Engine\\RenderWindow.cpp",
+              "ToolTip": "C:\\Users\\KOCCA46\\source\\repos\\DirectX11Engine\\DirectX11Engine\\RenderWindow.cpp",
+              "RelativeToolTip": "DirectX11Engine\\RenderWindow.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-06T10:02:55.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
