@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\Keyboard">
       <UniqueIdentifier>{8d03906e-d814-4ae9-bba8-f5fc16a1e0b3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Graphics">
+      <UniqueIdentifier>{7e13a4ee-9c7e-4b0d-ae74-9e4405e642c4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">
@@ -45,6 +48,9 @@
     <ClCompile Include="KeyboardClass.cpp">
       <Filter>소스 파일\Keyboard</Filter>
     </ClCompile>
+    <ClCompile Include="Graphics.cpp">
+      <Filter>Graphics</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringConverter.h">
@@ -67,6 +73,9 @@
     </ClInclude>
     <ClInclude Include="KeyboardClass.h">
       <Filter>헤더 파일\Keyboard</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphics.h">
+      <Filter>Graphics</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
